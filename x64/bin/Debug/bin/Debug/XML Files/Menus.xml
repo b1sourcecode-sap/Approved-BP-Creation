@@ -1,0 +1,16 @@
+
+<Application>
+	<Menus>
+	 <action type="add">
+	  <Menu Checked="0" Enabled="1" FatherUID="43535" String="Approved BP Master Creation " Type="1" position="3" UniqueID="ABPCreation"/>
+	  <Menu Checked="0" Enabled="1" FatherUID="14848" String="Approved BP Approval" Type="1" position="5" UniqueID="ABPTemplate" />
+	  <Menu Checked="0" Enabled="1" FatherUID="4352" String="Production Planning" Type="1" position="3" UniqueID="ProductionPlanning"/>
+	  <Menu Checked="0" Enabled="1" FatherUID="14848" String="Production Planning Approval" Type="1" position="5" UniqueID="ApprovalTemplate" />
+      <Menu Checked="0" Enabled="1" FatherUID="4352" String="Production Planning" Type="1" position="3" UniqueID="ProductionPlanning"/>
+      <Menu Checked="0" Enabled="1" FatherUID="4352" String="LG BOM" Type="1" position="1" UniqueID="LGBOM" />
+      <Menu Checked="0" Enabled="1" FatherUID="4352" String="Engineering Change Order" Type="1" position="2" UniqueID="ECO" />
+      <Menu Checked="0" Enabled="1" FatherUID="4352" String="Production Planning" Type="1" position="3" UniqueID="ProductionPlanning" />
+	  <!--<Menu Checked="0" Enabled="1" FatherUID="43528" String="Approved BP Creation Controller" Type="1" position="10" UniqueID="ABPController" />-->
+    </action> 
+	</Menus>
+</Application> 
